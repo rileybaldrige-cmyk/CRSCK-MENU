@@ -1,0 +1,1 @@
+{"pid":23532,"sessions":1,"fatal":0,"findings":[{"sev":"info","kind":"error","name":"processes","detail":"TypeError: not a function"}],"at":"2026-10-24T07:15:52.093Z"}
