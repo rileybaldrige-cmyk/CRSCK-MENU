@@ -2,9 +2,9 @@
   "name": "i-crack",
   "version": "1.0.0",
   "description": "",
-  "main": "bhxb.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node bhxb.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
